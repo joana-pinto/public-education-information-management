@@ -95,19 +95,19 @@ The proposed framework aims to help public education stakeholders make more info
 
 The problem tree summarizes the main causes, central problem, effects and final outcome associated with inefficient information management in the Portuguese public education system.
 
-![Problem Tree](assets/problem-tree.png)
+![Problem Tree](assets/problem-tree.jpeg)
 
 ### Diagnostic InfoMap
 
 The diagnostic InfoMap maps key information resources, responsible actors, users, storage formats and associated costs across the education system.
 
-![Diagnostic InfoMap](assets/diagnostic-infomap.png)
+![Diagnostic InfoMap](assets/diagnostic-infomap.jpeg)
 
 ### Investment InfoMap
 
 The investment InfoMap connects proposed information resources with target users, expected value, required investment and implementation risks.
 
-![Investment InfoMap](assets/investment-infomap.png)
+![Investment InfoMap](assets/investment-infomap.jpeg)
 
 ## Repository Contents
 
@@ -118,14 +118,14 @@ public-education-information-management/
 ├── report.pdf                        # Full academic report
 ├── presentation.pdf                  # Final project presentation
 └── assets/
-    ├── problem-tree.png              # Problem diagnosis: causes, central problem, effects and final outcome
-    ├── diagnostic-infomap.png        # Diagnostic InfoMap: information resources, actors, users, storage and costs
-    ├── objectives-tree.png           # Objectives tree: expected results, general objective and specific objectives
-    ├── investment-infomap.png        # Investment InfoMap: proposed resources, users, value, investment and risks
-    ├── implementation-timeline.png   # Implementation timeline and project milestones
-    ├── non-implementation-risks.png  # Risk table for the non-implementation scenario
-    ├── implementation-risks.png      # Risk table for the implementation scenario
-    ├── risk-matrix.png               # Risk matrix comparing implementation and non-implementation exposure
+    ├── problem-tree.jpeg              # Problem diagnosis: causes, central problem, effects and final outcome
+    ├── diagnostic-infomap.jpeg        # Diagnostic InfoMap: information resources, actors, users, storage and costs
+    ├── objectives-tree.jpeg           # Objectives tree: expected results, general objective and specific objectives
+    ├── investment-infomap.jpeg        # Investment InfoMap: proposed resources, users, value, investment and risks
+    ├── implementation-timeline.jpeg   # Implementation timeline and project milestones
+    ├── non-implementation-risks.jpeg  # Risk table for the non-implementation scenario
+    ├── implementation-risks.jpeg      # Risk table for the implementation scenario
+    ├── risk-matrix.jpeg               # Risk matrix comparing implementation and non-implementation exposure
     └── dashboard-demo.mp4            # Optional dashboard prototype/demo
 ```
 
